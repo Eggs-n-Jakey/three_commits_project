@@ -5,3 +5,8 @@ body {
     text-align: center;
     text-decoration: line-through;
 }
+
+aside {
+    background-color: aqua;
+    text-align: center;
+}
